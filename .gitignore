@@ -1,8 +1,45 @@
-*.iml
-.gradle
+# custom build file
+/runBuild.sh
+/.gradle
+/**/*build/
 /local.properties
-/.idea
-.DS_Store
-/build
+/**/.DS_Store
+#/**/.idea
+/MaterialDesignDemo
+/fzAndroidMap
+/**/*.apk
+/**/*.iml
+/**/*-report.txt
+app/out.map
+/app/gradle.properties
+/app/ormlite_config.txt
+
+/*.idea
+# files for the dex VM
+*.dex
+# Java class files
+*.class
+# generated files
+bin/
+gen/
+# Windows thumbnail db
+Thumbs.db
+# Eclipse project files
+.classpath
+.project
+
+
+#other
+/*/out
+/*/*/production
+*.iws
+*.ipr
+*~
+*.swp
+.gitignore.swp
+**/*.DS_Store
+demo/*
+
+demo_app
+build
 */build/*
-/captures
