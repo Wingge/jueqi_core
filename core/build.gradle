@@ -1,6 +1,7 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
-group='com.github.Wingge'
+
+//group='com.github.Wingge'
 
 android {
     compileSdkVersion 23
@@ -34,6 +35,6 @@ dependencies {
     compile 'com.android.support:design:23.1.1'
     //View注解   代码地址-----> https://github.com/JakeWharton/butterknife
     compile 'com.jakewharton:butterknife:6.1.0'
-//    compile project(':PhotoView')
-//    compile project(':Volley')
+    compile project(':PhotoView')
+    compile project(':Volley')
 }
