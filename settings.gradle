@@ -1,1 +1,1 @@
-include ':core', ':PhotoView',':third_party:Volley'
+include ':core'

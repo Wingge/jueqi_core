@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PhotoView/PhotoView.iml" filepath="$PROJECT_DIR$/PhotoView/PhotoView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/third_party/Volley/Volley.iml" filepath="$PROJECT_DIR$/third_party/Volley/Volley.iml" />
       <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
       <module fileurl="file://$PROJECT_DIR$/jueqi_core.iml" filepath="$PROJECT_DIR$/jueqi_core.iml" />
-      <module fileurl="file://$PROJECT_DIR$/third_party/third_party.iml" filepath="$PROJECT_DIR$/third_party/third_party.iml" />
     </modules>
   </component>
 </project>

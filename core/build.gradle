@@ -42,5 +42,6 @@ dependencies {
     compile 'com.commit451:PhotoView:1.2.4'
 
 //    compile project(':PhotoView')
-    compile project(':third_party:Volley')
+//    compile ':third_party:Volley'
+//    compile project(':third_party:Volley')
 }
