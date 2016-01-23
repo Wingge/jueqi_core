@@ -5,8 +5,6 @@
 /local.properties
 /**/.DS_Store
 #/**/.idea
-/MaterialDesignDemo
-/fzAndroidMap
 /**/*.apk
 /**/*.iml
 app/out.map
