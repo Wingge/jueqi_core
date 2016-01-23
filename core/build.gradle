@@ -39,6 +39,8 @@ dependencies {
     // JSON utility library.
     compile "com.google.code.gson:gson:2.3"
 
-    compile project(':PhotoView')
-    compile project(':Volley')
+    compile 'com.commit451:PhotoView:1.2.4'
+
+//    compile project(':PhotoView')
+//    compile project(':Volley')
 }
